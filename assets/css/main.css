@@ -1617,6 +1617,12 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
+			width: 100%;
+			margin: 0 0 2em 0;
+		}
+
+		.image.about {
+			display: block;
 			width: 75%;
 			margin: 0 0 2em 0;
 		}
